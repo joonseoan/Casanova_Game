@@ -30,6 +30,11 @@
 #####    - Exit in the mid of playing game and time user ID and time information is dismissed.
 ##### ![Buttons](/images/c3.PNG)
 
+### 4. Show completion of the game
+#####    - Show timer information if the lady elements in the array are replaced with the rose elements.
+##### ![Buttons](/images/c4.PNG)
+
+
 
 
 
