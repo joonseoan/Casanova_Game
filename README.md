@@ -32,9 +32,11 @@
 
 ### 4. Show completion of the game
 #####    - Show timer information if the lady elements in the array are replaced with the rose elements.
-##### ![Buttons](/images/c4.PNG)
+##### ![Message](/images/c4.PNG)
 
-
+### 5. Record the best player
+#####    - Record the player who consumes the minimum amount of time to finish the game by using TreeSet and Javaio.
+##### ![Record](/images/c5.PNG)
 
 
 
