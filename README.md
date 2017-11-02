@@ -28,8 +28,7 @@
 #####    - Reset simply by using another multidimensional array
 #####    - Stop and restart by inheriting TimerTask
 #####    - Exit in the mid of playing game and time user ID and time information is dismissed.
-
-
+##### ![Buttons](/images/c3.PNG)
 
 
 
