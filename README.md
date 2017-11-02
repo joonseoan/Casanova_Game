@@ -12,8 +12,10 @@
   ## - Multidimensional Array
 
 # [Game Summary]
-### 1. Create a simple user list text file to store user IDs by using D File and FileWriter and FileReader.
+### 1. Create a simple user list text file to store user IDs by using File and FileWriter and FileReader.
 ### ![Login Page](/images/c1.PNG)
+
+
 
 
   
