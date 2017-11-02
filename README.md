@@ -11,9 +11,12 @@
   ## - Java io
   ## - Multidimensional Array
 
-# [Game Summary]
+# [Programming Summary]
 ### 1. Create a simple user list text file to store user IDs by using File and FileWriter and FileReader.
 ### ![Login Page](/images/c1.PNG)
+
+### 2. Create a simple user list text file to store user IDs by using File and FileWriter and FileReader.
+### ![Main game page](/images/c2.PNG)
 
 
 
