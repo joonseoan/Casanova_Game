@@ -16,12 +16,21 @@
 ##### ![Login Page](/images/c1.PNG)
 
 ### 2. Memorize the userId in the main page. 
-#####    Blocks and playground are made by the multidimensional array.
-######   Mesure time conumption to complete the game by using the Timer().
-#####    Record the winner who finishes the game in the the shortest time. The data is pulled out of the user list text file.
-#####    The timer data is stored on the user text file together with userIDs. 
-#####    TreeSet is used to match user IDs with time and to sort out the list in ascending order of time data.
+#####    - Blocks and playground are made by the multidimensional array.
+#####    - Mesure time conumption to complete the game by using the Timer().
+#####    - Record the winner who finishes the game in the the shortest time. The data is pulled out of the user list text file.
+#####    - The timer data is stored on the user text file together with userIDs. 
+#####    - TreeSet is used to match user IDs with time and to sort out the list in ascending order of time data.
 ##### ![Main game page](/images/c2.PNG)
+
+### 3. Undo, Reset, Stop/Restart, and Exit the game
+#####    - Undo simply by using checkup() and another multidimensional array
+#####    - Reset simply by using another multidimensional array
+#####    - Stop and restart by inheriting TimerTask
+#####    - Exit in the mid of playing game and time user ID and time information is dismissed.
+
+
+
 
 
 
